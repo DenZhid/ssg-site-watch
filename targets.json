@@ -1,0 +1,18 @@
+{
+    "timeout_seconds": 20,
+    "markers": ["Хеш коммита", "Дата сборки", "Версия набора данных"],
+    "targets": [
+      {
+        "name": "github-pages",
+        "url": "" 
+      },
+      {
+        "name": "helios",
+        "url": ""
+      },
+      {
+        "name": "helios-desktop",
+        "url": ""
+      }
+    ]
+  }
